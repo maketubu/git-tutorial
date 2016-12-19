@@ -1,4 +1,4 @@
 #git½Ì³Ì
 -feature-A
 -fix-b
--faeture-C
+-feature-C
